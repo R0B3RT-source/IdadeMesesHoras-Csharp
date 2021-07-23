@@ -1,0 +1,10 @@
+C:\Users\Desktop\source\repos\idadeMesesHoras\bin\Debug\idadeMesesHoras.exe.config
+C:\Users\Desktop\source\repos\idadeMesesHoras\bin\Debug\idadeMesesHoras.exe
+C:\Users\Desktop\source\repos\idadeMesesHoras\bin\Debug\idadeMesesHoras.pdb
+C:\Users\Desktop\source\repos\idadeMesesHoras\obj\Debug\idadeMesesHoras.csprojAssemblyReference.cache
+C:\Users\Desktop\source\repos\idadeMesesHoras\obj\Debug\idadeMesesHoras.Form1.resources
+C:\Users\Desktop\source\repos\idadeMesesHoras\obj\Debug\idadeMesesHoras.Properties.Resources.resources
+C:\Users\Desktop\source\repos\idadeMesesHoras\obj\Debug\idadeMesesHoras.csproj.GenerateResource.cache
+C:\Users\Desktop\source\repos\idadeMesesHoras\obj\Debug\idadeMesesHoras.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\source\repos\idadeMesesHoras\obj\Debug\idadeMesesHoras.exe
+C:\Users\Desktop\source\repos\idadeMesesHoras\obj\Debug\idadeMesesHoras.pdb
